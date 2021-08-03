@@ -7,3 +7,4 @@ date
 
 echo "we will symc change using fetch"
 
+echo "This is featureA"
